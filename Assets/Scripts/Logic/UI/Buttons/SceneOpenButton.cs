@@ -23,7 +23,7 @@ namespace Logic.UI.Buttons
             _button.onClick.AddListener(GoToScene);
 
         private void GoToScene() =>
-            _sceneLoaderService.LoadSceneAsync(_scene, screensaver: false, delay: 0f);
+            _sceneLoaderService.LoadSceneAsync(_scene, screensaver: true, delay: 0f);
         
         private void OnDisable() =>
             _button.onClick.RemoveListener(GoToScene);

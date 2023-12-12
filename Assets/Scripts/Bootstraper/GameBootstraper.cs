@@ -1,4 +1,5 @@
 using Services.PersistentProgress;
+using Services.Localization;
 using Services.SceneLoader;
 using Services.SaveLoad;
 using UnityEngine;
@@ -11,14 +12,16 @@ namespace Bootstraper
     {
         private IPersistentProgressService _progressService;
         private ISaveLoadService _saveLoadService;
+        private ILocalizationService _localizationService;
         private ISceneLoaderService _sceneLoaderService;
         
         [Inject]
         private void Construct(IPersistentProgressService progressService, ISaveLoadService saveLoadService,
-            ISceneLoaderService sceneLoaderService)
+            ILocalizationService localizationService, ISceneLoaderService sceneLoaderService)
         {
             _progressService = progressService;
             _saveLoadService = saveLoadService;
+            _localizationService = localizationService;
             _sceneLoaderService = sceneLoaderService;
         }
         
@@ -31,6 +34,7 @@ namespace Bootstraper
         private void Start()
         {
             LoadProgressOrInitNew();
+            _localizationService.SetLocale(_progressService.GetUserProgress.Locale);
             _sceneLoaderService.LoadSceneAsync(Scenes.MainMenu, screensaver: false, delay: 1.5f);
         }
 

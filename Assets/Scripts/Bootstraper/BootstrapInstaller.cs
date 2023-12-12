@@ -1,3 +1,4 @@
+using Services.Localization;
 using Services.PersistentProgress;
 using Services.SceneLoader;
 using Services.SaveLoad;
@@ -8,6 +9,7 @@ namespace Bootstraper
 {
     public class BootstrapInstaller : MonoInstaller
     {
+        [SerializeField] private LocalizationService _localizationService;
         [SerializeField] private SceneLoaderService _sceneLoader;
         
         private IPersistentProgressService _progressService;
@@ -17,6 +19,7 @@ namespace Bootstraper
         {
             BindPersistentProgress();
             BindSaveLoadService();
+            BindLocalizationService();
             BindSceneLoader();
         }
         
@@ -30,6 +33,12 @@ namespace Bootstraper
         {
             _saveLoadService = new SaveLoadService(_progressService);
             Container.BindInstance(_saveLoadService).AsSingle();
+        }
+
+        private void BindLocalizationService()
+        {
+            LocalizationService localization = Container.InstantiatePrefabForComponent<LocalizationService>(_localizationService);
+            Container.Bind<ILocalizationService>().To<LocalizationService>().FromInstance(localization).AsSingle();
         }
 
         private void BindSceneLoader()
