@@ -2,6 +2,7 @@ using Services.Localization;
 using Services.PersistentProgress;
 using Services.SceneLoader;
 using Services.SaveLoad;
+using Services.StaticData;
 using UnityEngine;
 using Zenject;
 
@@ -21,6 +22,7 @@ namespace Bootstraper
             BindSaveLoadService();
             BindLocalizationService();
             BindSceneLoader();
+            BindStaticData();
         }
         
         private void BindPersistentProgress()
@@ -45,6 +47,13 @@ namespace Bootstraper
         {
             SceneLoaderService sceneLoader = Container.InstantiatePrefabForComponent<SceneLoaderService>(_sceneLoader);
             Container.Bind<ISceneLoaderService>().To<SceneLoaderService>().FromInstance(sceneLoader).AsSingle();
+        }
+
+        private void BindStaticData()
+        {
+            IStaticDataService staticDataService = new StaticDataService();
+            staticDataService.LoadCharacters();
+            Container.BindInstance(staticDataService).AsSingle();
         }
     }
 }

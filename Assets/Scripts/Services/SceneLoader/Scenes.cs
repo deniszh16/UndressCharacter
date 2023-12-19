@@ -3,7 +3,7 @@
     public enum Scenes
     {
         MainMenu = 1,
-        Levels = 2,
+        Characters = 2,
         Level = 3
     }
 }
