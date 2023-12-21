@@ -53,6 +53,7 @@ namespace Bootstraper
         {
             IStaticDataService staticDataService = new StaticDataService();
             staticDataService.LoadCharacters();
+            staticDataService.LoadLevels();
             Container.BindInstance(staticDataService).AsSingle();
         }
     }

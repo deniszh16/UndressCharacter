@@ -7,13 +7,16 @@ namespace Data
     [Serializable]
     public class UserProgress
     {
+        public int Level;
         public List<CharacterData> Characters;
         public int CurrentCharacter;
-        
+
         public int Locale;
 
         public UserProgress()
         {
+            Level = 1;
+            
             Characters = new List<CharacterData>(capacity: 8);
             for (int i = 0; i < Characters.Capacity; i++)
                 Characters.Add(new CharacterData());

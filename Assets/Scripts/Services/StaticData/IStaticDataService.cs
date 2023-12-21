@@ -6,5 +6,7 @@ namespace Services.StaticData
     {
         public void LoadCharacters();
         public CharacterStaticData GetCharacters(int number);
+        public void LoadLevels();
+        public LevelsStaticData GetLevels();
     }
 }

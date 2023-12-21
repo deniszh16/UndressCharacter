@@ -9,8 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 505c1e502c2747d285362fcebbc4b607, type: 3}
-  m_Name: CharacterStaticData_2
+  m_Script: {fileID: 11500000, guid: c346acc01cd146348832cc2fab088b6f, type: 3}
+  m_Name: LevelsStaticData
   m_EditorClassIdentifier: 
-  Number: 2
-  NumberOfHearts: 00000000000000000000000000000000
+  Levels:
+  - Number: 1
+    Formation: 0
+    Cards: []
