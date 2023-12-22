@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -14,6 +15,11 @@ namespace Logic.Levels
 
         private Arrangement _currentArrangement;
         private List<GameObject> _createdCards;
+
+        private CardSelection _cardSelection;
+
+        public void Construct(CardSelection cardSelection) =>
+            _cardSelection = cardSelection;
 
         public void EnableSelectedArrangement(TypesOfFormations type)
         {
@@ -44,7 +50,18 @@ namespace Logic.Levels
         private void OnCardInstantiated(AsyncOperationHandle<GameObject> handle)
         {
             if (handle.Status == AsyncOperationStatus.Succeeded)
+            {
                 _createdCards.Add(handle.Result);
+                
+                if (handle.Result.gameObject.TryGetComponent(out Card card))
+                    card.Construct(_cardSelection);
+            }
+        }
+
+        private void OnDestroy()
+        {
+            foreach (GameObject card in _createdCards)
+                Addressables.ReleaseInstance(card);
         }
     }
 }

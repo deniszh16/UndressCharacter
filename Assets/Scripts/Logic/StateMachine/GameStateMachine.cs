@@ -14,20 +14,23 @@ namespace Logic.StateMachine
         private IPersistentProgressService _progressService;
 
         private ArrangementOfCards _arrangementOfCards;
+        private CardSelection _cardSelection;
 
         [Inject]
         private void Construct(StateMachine stateMachine, IStaticDataService staticDataService,
-            IPersistentProgressService progressService, ArrangementOfCards arrangementOfCards)
+            IPersistentProgressService progressService, ArrangementOfCards arrangementOfCards, CardSelection cardSelection)
         {
             _stateMachine = stateMachine;
             _staticDataService = staticDataService;
             _progressService = progressService;
             _arrangementOfCards = arrangementOfCards;
+            _cardSelection = cardSelection;
         }
 
         private void Awake()
         {
-            _stateMachine.AddState(new InitialState(_stateMachine, _staticDataService, _progressService, _arrangementOfCards));
+            _stateMachine.AddState(new InitialState(_stateMachine, _staticDataService, _progressService, _arrangementOfCards, _cardSelection));
+            _stateMachine.AddState(new PlayState(_stateMachine));
         }
 
         private void Start() =>

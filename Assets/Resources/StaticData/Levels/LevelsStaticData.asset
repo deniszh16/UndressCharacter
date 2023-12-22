@@ -15,4 +15,20 @@ MonoBehaviour:
   Levels:
   - Number: 1
     Formation: 0
-    Cards: []
+    Cards:
+    - m_AssetGUID: de07730a85dadb646b7050193117286c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: de07730a85dadb646b7050193117286c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e49633eb5022aa44592db2973297df84
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e49633eb5022aa44592db2973297df84
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
