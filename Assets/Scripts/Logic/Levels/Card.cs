@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.EventSystems;
 
 namespace Logic.Levels
@@ -17,26 +18,46 @@ namespace Logic.Levels
         private static readonly int OpenCardAnimation = Animator.StringToHash("Open");
         private static readonly int HideCardAnimation = Animator.StringToHash("Hide");
 
+        private bool _availability;
+
         private CardSelection _cardSelection;
 
-        public void Construct(CardSelection cardSelection) =>
+        public void Construct(CardSelection cardSelection)
+        {
+            _availability = true;
             _cardSelection = cardSelection;
+        }
 
-        public void OnPointerDown(PointerEventData eventData) =>
-            OpenCard();
+        public void OnPointerDown(PointerEventData eventData)
+        {
+            if (_availability)
+                OpenCard();
+        }
 
         private void OpenCard()
         {
             _cardSelection.WriteACard(this);
             _animator.SetBool(id: OpenCardAnimation, value: true);
+            _availability = false;
         }
 
         public void CloseCard() =>
-            _animator.SetBool(id: OpenCardAnimation, value: false);
+            _ = StartCoroutine(CloseCardCoroutine());
 
-        public void HideCard()
+        private IEnumerator CloseCardCoroutine()
+        {
+            yield return new WaitForSeconds(0.5f);
+            _animator.SetBool(id: OpenCardAnimation, value: false);
+            _availability = true;
+        }
+
+        public void HideCard() =>
+            _ = StartCoroutine(HideCardCoroutine());
+
+        private IEnumerator HideCardCoroutine()
         {
             _boxCollider.enabled = false;
+            yield return new WaitForSeconds(0.5f);
             _animator.SetTrigger(id: HideCardAnimation);
         }
     }

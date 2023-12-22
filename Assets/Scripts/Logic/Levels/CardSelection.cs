@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using UnityEngine;
 
 namespace Logic.Levels
@@ -7,9 +6,9 @@ namespace Logic.Levels
     public class CardSelection : MonoBehaviour
     {
         private int _numberOfCards;
-
-        public event Action AllCardsFound;
         
+        public event Action AllCardsFound;
+
         private Card _firstCard;
         private Card _secondCard;
 
@@ -20,12 +19,17 @@ namespace Logic.Levels
         {
             if (_firstCard == null)
             {
+                Debug.Log("_firstCard");
                 _firstCard = selectedCard;
                 return;
             }
 
-            _secondCard = selectedCard;
-            CompareTwoCards();
+            if (_secondCard == null && _firstCard.Equals(selectedCard) != true)
+            {
+                Debug.Log("_secondCard");
+                _secondCard = selectedCard;
+                CompareTwoCards();
+            }
         }
 
         private void CompareTwoCards()
@@ -35,19 +39,20 @@ namespace Logic.Levels
                 _numberOfCards -= 2;
                 _firstCard.HideCard();
                 _secondCard.HideCard();
+                ResetSelectedCards();
                 CheckNumberOfCards();
-                return;
             }
-
-            _ = StartCoroutine(ResetSelectedCards());
+            else
+            {
+                _firstCard.CloseCard();
+                _secondCard.CloseCard();
+                ResetSelectedCards();
+            }
         }
 
-        private IEnumerator ResetSelectedCards()
+        private void ResetSelectedCards()
         {
-            yield return new WaitForSeconds(0.5f);
-            _firstCard.CloseCard();
             _firstCard = null;
-            _secondCard.CloseCard();
             _secondCard = null;
         }
 

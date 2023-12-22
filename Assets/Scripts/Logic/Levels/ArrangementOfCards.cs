@@ -61,7 +61,10 @@ namespace Logic.Levels
         private void OnDestroy()
         {
             foreach (GameObject card in _createdCards)
-                Addressables.ReleaseInstance(card);
+            {
+                if (card != null)
+                    Addressables.ReleaseInstance(card);
+            }
         }
     }
 }

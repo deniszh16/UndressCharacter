@@ -35,9 +35,11 @@ namespace Logic.UI.ListOfCharacters
             int target = _staticDataService.GetCharacters(currentCharacter).NumberOfHearts[currentStage - 1];
 
             float clampedValue = Mathf.Clamp(value: currentHearts, min: 0f, max: target);
-            _slider.value = clampedValue / target;
-
+            _slider.value = clampedValue / target;;
+            
             int  percentages = (int)(clampedValue / target * 100);
+            if (percentages < 0) percentages = 0;
+            if (percentages > 100) percentages = 100;
             _progressPercentages.RecordProgressPercentages(percentages);
         }
     }

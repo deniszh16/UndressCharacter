@@ -1,6 +1,7 @@
 ﻿using Logic.Levels;
 using Services.PersistentProgress;
 using Services.StaticData;
+using UnityEngine;
 
 namespace Logic.StateMachine.States
 {
@@ -24,11 +25,11 @@ namespace Logic.StateMachine.States
         public override void Enter()
         {
             int level = _progressService.GetUserProgress.Level;
-            TypesOfFormations type = _staticDataService.GetLevels().Levels[level].Formation;
+            TypesOfFormations type = _staticDataService.GetLevels().Levels[level - 1].Formation;
             _arrangementOfCards.Construct(_cardSelection);
             _arrangementOfCards.EnableSelectedArrangement(type);
-            _arrangementOfCards.LoadAndInstantiatePrefabs(_staticDataService.GetLevels().Levels[level].Cards);
-            _cardSelection.SetNumberOfCards(_staticDataService.GetLevels().Levels[level].Cards.Count);
+            _arrangementOfCards.LoadAndInstantiatePrefabs(_staticDataService.GetLevels().Levels[level - 1].Cards);
+            _cardSelection.SetNumberOfCards(_staticDataService.GetLevels().Levels[level - 1].Cards.Count);
         }
         
         public override void Exit()
