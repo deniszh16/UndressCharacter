@@ -23,9 +23,6 @@ namespace Data
             
             CurrentCharacter = 1;
             Characters[CurrentCharacter - 1].Activity = true;
-            Characters[CurrentCharacter - 1].CharacterStage = 2;
-            Characters[CurrentCharacter - 1].CharacterHearts = 18;
-            Characters[CurrentCharacter].Activity = true;
 
             Locale = Application.systemLanguage == SystemLanguage.Russian ? 0 : 1;
         }

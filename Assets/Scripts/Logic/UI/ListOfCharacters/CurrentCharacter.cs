@@ -30,7 +30,7 @@ namespace Logic.UI.ListOfCharacters
         {
             _character = _progressService.GetUserProgress.CurrentCharacter - 1;
             _progress = lastImage
-                ? _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage
+                ? _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage - 1
                 : selectedOption;
             
             _image.sprite = _characters[_character].Clothes[_progress];

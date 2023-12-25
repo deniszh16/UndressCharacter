@@ -30,6 +30,6 @@ namespace Logic.UI.ListOfCharacters
         }
 
         public void SelectAnotherStage(StageButton stageButton) =>
-            _currentCharacter.ShowCurrentCharacter(lastImage: false, stageButton.Number);
+            _currentCharacter.ShowCurrentCharacter(lastImage: false, selectedOption: stageButton.Number - 1);
     }
 }

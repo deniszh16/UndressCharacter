@@ -37,8 +37,8 @@ namespace Logic.UI.ListOfCharacters
             _currentCharacter = _progressService.GetUserProgress.CurrentCharacter;
             _currentStage = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage;
             _currentHearts = _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts;
-            _target = _staticDataService.GetCharacters(_currentCharacter).NumberOfHearts[_currentStage - 1];
-
+            _target = _staticDataService.GetCharacters(_currentCharacter).NumberOfHearts[_currentStage];
+            
             float clampedValue = Mathf.Clamp(value: _currentHearts, min: 0f, max: _target);
             _slider.value = clampedValue / _target;;
             
