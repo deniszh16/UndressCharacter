@@ -14,6 +14,11 @@ namespace Logic.UI.ListOfCharacters
         [Header("Проценты прогресса")]
         [SerializeField] private ProgressPercentages _progressPercentages;
 
+        private int _currentCharacter;
+        private int _currentStage;
+        private int _currentHearts;
+        private int _target;
+
         private IPersistentProgressService _progressService;
         private IStaticDataService _staticDataService;
 
@@ -29,18 +34,21 @@ namespace Logic.UI.ListOfCharacters
 
         public void UpdateSliderValue()
         {
-            int currentCharacter = _progressService.GetUserProgress.CurrentCharacter;
-            int currentStage = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage;
-            int currentHearts = _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts;
-            int target = _staticDataService.GetCharacters(currentCharacter).NumberOfHearts[currentStage - 1];
+            _currentCharacter = _progressService.GetUserProgress.CurrentCharacter;
+            _currentStage = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage;
+            _currentHearts = _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts;
+            _target = _staticDataService.GetCharacters(_currentCharacter).NumberOfHearts[_currentStage - 1];
 
-            float clampedValue = Mathf.Clamp(value: currentHearts, min: 0f, max: target);
-            _slider.value = clampedValue / target;;
+            float clampedValue = Mathf.Clamp(value: _currentHearts, min: 0f, max: _target);
+            _slider.value = clampedValue / _target;;
             
-            int  percentages = (int)(clampedValue / target * 100);
+            int  percentages = (int)(clampedValue / _target * 100);
             if (percentages < 0) percentages = 0;
             if (percentages > 100) percentages = 100;
             _progressPercentages.RecordProgressPercentages(percentages);
         }
+
+        public bool CheckCharacterProgress() =>
+            _currentHearts >= _target;
     }
 }

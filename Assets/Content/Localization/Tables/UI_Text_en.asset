@@ -28,6 +28,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 1621131355170537565
+  - m_Id: 3170781840650240
+    m_Localized: Losing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189144339984384
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3207687894839296
+    m_Localized: Double reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3545490616856576
+    m_Localized: New character image received
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

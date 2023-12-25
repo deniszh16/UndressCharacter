@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: LevelsStaticData
   m_EditorClassIdentifier: 
   Levels:
-  - Number: 1
-    Formation: 0
+  - Formation: 0
     Cards:
     - m_AssetGUID: de07730a85dadb646b7050193117286c
       m_SubObjectName: 
@@ -32,3 +31,4 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    Seconds: 50

@@ -9,13 +9,13 @@ namespace Logic.StaticData
     [Serializable]
     public class LevelOptions
     {
-        [Header("Номер уровня")]
-        public int Number;
-
         [Header("Расстановка уровня")]
         public TypesOfFormations Formation;
 
         [Header("Карточки задания")]
         public List<AssetReferenceGameObject> Cards;
+
+        [Header("Секунды уровня")]
+        public int Seconds;
     }
 }

@@ -23,6 +23,22 @@ MonoBehaviour:
     m_Key: key_Progress
     m_Metadata:
       m_Items: []
+  - m_Id: 3170781840650240
+    m_Key: key_Losing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3189144339984384
+    m_Key: key_Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3207687894839296
+    m_Key: key_DoubleReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3545490616856576
+    m_Key: key_CharacterUnlock
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

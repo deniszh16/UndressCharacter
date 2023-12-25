@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 
 namespace Logic.Levels
@@ -19,14 +20,12 @@ namespace Logic.Levels
         {
             if (_firstCard == null)
             {
-                Debug.Log("_firstCard");
                 _firstCard = selectedCard;
                 return;
             }
 
             if (_secondCard == null && _firstCard.Equals(selectedCard) != true)
             {
-                Debug.Log("_secondCard");
                 _secondCard = selectedCard;
                 CompareTwoCards();
             }
@@ -59,7 +58,13 @@ namespace Logic.Levels
         private void CheckNumberOfCards()
         {
             if (_numberOfCards <= 0)
-                AllCardsFound?.Invoke();
+                _ = StartCoroutine(CheckNumberOfCardsCoroutine());
+        }
+
+        private IEnumerator CheckNumberOfCardsCoroutine()
+        {
+            yield return new WaitForSeconds(0.3f);
+            AllCardsFound?.Invoke();
         }
     }
 }

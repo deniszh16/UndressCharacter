@@ -1,7 +1,7 @@
 ﻿using Logic.Levels;
+using Logic.StaticData;
 using Services.PersistentProgress;
 using Services.StaticData;
-using UnityEngine;
 
 namespace Logic.StateMachine.States
 {
@@ -12,26 +12,33 @@ namespace Logic.StateMachine.States
         
         private readonly ArrangementOfCards _arrangementOfCards;
         private readonly CardSelection _cardSelection;
+        private readonly LevelTimer _levelTimer;
         
         public InitialState(StateMachine stateMachine, IStaticDataService staticDataService, IPersistentProgressService progressService,
-            ArrangementOfCards arrangementOfCards, CardSelection cardSelection) : base(stateMachine)
+            ArrangementOfCards arrangementOfCards, CardSelection cardSelection, LevelTimer levelTimer) : base(stateMachine)
         {
             _staticDataService = staticDataService;
             _progressService = progressService;
             _arrangementOfCards = arrangementOfCards;
             _cardSelection = cardSelection;
+            _levelTimer = levelTimer;
         }
 
         public override void Enter()
         {
             int level = _progressService.GetUserProgress.Level;
-            TypesOfFormations type = _staticDataService.GetLevels().Levels[level - 1].Formation;
+            LevelOptions levelOptions = _staticDataService.GetLevels().Levels[level - 1];
             _arrangementOfCards.Construct(_cardSelection);
-            _arrangementOfCards.EnableSelectedArrangement(type);
-            _arrangementOfCards.LoadAndInstantiatePrefabs(_staticDataService.GetLevels().Levels[level - 1].Cards);
-            _cardSelection.SetNumberOfCards(_staticDataService.GetLevels().Levels[level - 1].Cards.Count);
+            _arrangementOfCards.EnableSelectedArrangement(levelOptions.Formation);
+            _arrangementOfCards.LoadAndInstantiatePrefabs(levelOptions.Cards);
+            _cardSelection.SetNumberOfCards(levelOptions.Cards.Count);
+            _levelTimer.SetTimer(levelOptions.Seconds);
+            GoToGameState();
         }
-        
+
+        private void GoToGameState() =>
+            _stateMachine.Enter<PlayState>();
+
         public override void Exit()
         {
         }
