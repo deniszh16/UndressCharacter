@@ -22,6 +22,9 @@ namespace Logic.Levels
         private static readonly int HideCardAnimation = Animator.StringToHash("Hide");
 
         private static readonly Vector2 AverageSize = new(x: 180, y: 254);
+        private static readonly Vector2 AverageBoxCollider = new(x: 170, y: 240);
+        private static readonly Vector2 SmallSize = new(x: 151, y: 210);
+        private static readonly Vector2 SmallBoxCollider = new(x: 145, y: 200);
 
         private bool _availability;
 
@@ -43,7 +46,16 @@ namespace Logic.Levels
         public void CustomizeSize(CardSize cardSize)
         {
             if (cardSize == CardSize.Average)
+            {
                 _rectTransform.sizeDelta = AverageSize;
+                _boxCollider.size = AverageBoxCollider;
+            }
+
+            if (cardSize == CardSize.Small)
+            {
+                _rectTransform.sizeDelta = SmallSize;
+                _boxCollider.size = SmallBoxCollider;
+            }
         }
 
         private void OpenCard()
