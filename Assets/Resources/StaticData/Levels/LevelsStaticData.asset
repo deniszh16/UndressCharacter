@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Levels:
   - Formation: 0
+    CardSize: 0
     Cards:
     - m_AssetGUID: de07730a85dadb646b7050193117286c
       m_SubObjectName: 
@@ -23,12 +24,240 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    - m_AssetGUID: e49633eb5022aa44592db2973297df84
+    - m_AssetGUID: 9cf9605adc6f66246b51737d11c5e806
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    - m_AssetGUID: e49633eb5022aa44592db2973297df84
+    - m_AssetGUID: 9cf9605adc6f66246b51737d11c5e806
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    Seconds: 50
+    - m_AssetGUID: b5fe9a4c36d3912458f8ff0285e813ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: b5fe9a4c36d3912458f8ff0285e813ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 45
+  - Formation: 1
+    CardSize: 0
+    Cards:
+    - m_AssetGUID: ddca93dddc176e742a94bd17bfec5cfc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ddca93dddc176e742a94bd17bfec5cfc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 184f616eb2cec5c49be01c806f501ad3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 184f616eb2cec5c49be01c806f501ad3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 356f268de2fd9c74695ec81dc389da44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 356f268de2fd9c74695ec81dc389da44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6841e4a7373674646b9a912a57484ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6841e4a7373674646b9a912a57484ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 45
+  - Formation: 1
+    CardSize: 0
+    Cards:
+    - m_AssetGUID: 2d69613a8c6985b4fa741ba6ada49a2f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2d69613a8c6985b4fa741ba6ada49a2f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c78f05419e2cb5a4980b37c1510a8197
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c78f05419e2cb5a4980b37c1510a8197
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: a4d0f75904776b34382ad34bc41f716a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: a4d0f75904776b34382ad34bc41f716a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: da6a714e22d3d264b92ce293b3867fd8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: da6a714e22d3d264b92ce293b3867fd8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 45
+  - Formation: 2
+    CardSize: 0
+    Cards:
+    - m_AssetGUID: 184f616eb2cec5c49be01c806f501ad3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 184f616eb2cec5c49be01c806f501ad3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c018b914f243f5742a9eba4e820a2daf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c018b914f243f5742a9eba4e820a2daf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: de07730a85dadb646b7050193117286c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: de07730a85dadb646b7050193117286c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e413fbf1c60a3834eb8098571809e766
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e413fbf1c60a3834eb8098571809e766
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6e5febf405bbb564a8a116c29c5dcfd2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6e5febf405bbb564a8a116c29c5dcfd2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 60
+  - Formation: 2
+    CardSize: 0
+    Cards:
+    - m_AssetGUID: 7d4b5f86992f0f54e9004b797dd790b5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 7d4b5f86992f0f54e9004b797dd790b5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: a4d0f75904776b34382ad34bc41f716a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: a4d0f75904776b34382ad34bc41f716a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 26cbf371398393042b88e1b88bc07d28
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 26cbf371398393042b88e1b88bc07d28
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 44e816768258a554e85d39f721a73f94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 44e816768258a554e85d39f721a73f94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 60
+  - Formation: 3
+    CardSize: 1
+    Cards:
+    - m_AssetGUID: 1d496a4d8fc8bf44d8d798f2e1eb94c3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1d496a4d8fc8bf44d8d798f2e1eb94c3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d7b2dbddbdb95a24dad5eac0d891d8d4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d7b2dbddbdb95a24dad5eac0d891d8d4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 85fd6cc5af0840d45b69d6f48b3d772d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 85fd6cc5af0840d45b69d6f48b3d772d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: bc07b11cd6bc94f4eb3c12432b8911dc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: bc07b11cd6bc94f4eb3c12432b8911dc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 62639fb8ff412a64c9a273f39fc5d0cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 62639fb8ff412a64c9a273f39fc5d0cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: bcce7fc4feddc704ab136285c7d81f69
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: bcce7fc4feddc704ab136285c7d81f69
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 70

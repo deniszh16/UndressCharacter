@@ -3,6 +3,8 @@
     public enum TypesOfFormations
     {
         Starting,
-        Rectangle3X2,
+        Rectangle4X2,
+        Rectangle5X2,
+        Figure3X7X4
     }
 }

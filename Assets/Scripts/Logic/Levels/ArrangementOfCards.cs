@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using Logic.StaticData;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
@@ -17,9 +18,13 @@ namespace Logic.Levels
         private List<GameObject> _createdCards;
 
         private CardSelection _cardSelection;
+        private CardSize _cardSize;
 
-        public void Construct(CardSelection cardSelection) =>
+        public void Construct(CardSelection cardSelection, CardSize cardSize)
+        {
             _cardSelection = cardSelection;
+            _cardSize = cardSize;
+        }
 
         public void EnableSelectedArrangement(TypesOfFormations type)
         {
@@ -52,9 +57,12 @@ namespace Logic.Levels
             if (handle.Status == AsyncOperationStatus.Succeeded)
             {
                 _createdCards.Add(handle.Result);
-                
+
                 if (handle.Result.gameObject.TryGetComponent(out Card card))
+                {
                     card.Construct(_cardSelection);
+                    card.CustomizeSize(_cardSize);
+                }
             }
         }
 

@@ -12,6 +12,9 @@ namespace Logic.StaticData
         [Header("Расстановка уровня")]
         public TypesOfFormations Formation;
 
+        [Header("Размер карточек")]
+        public CardSize CardSize;
+
         [Header("Карточки задания")]
         public List<AssetReferenceGameObject> Cards;
 

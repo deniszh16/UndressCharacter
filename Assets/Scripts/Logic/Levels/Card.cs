@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Logic.StaticData;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -15,8 +16,12 @@ namespace Logic.Levels
         [SerializeField] private Animator _animator;
         [SerializeField] private BoxCollider2D _boxCollider;
         
+        private RectTransform _rectTransform;
+        
         private static readonly int OpenCardAnimation = Animator.StringToHash("Open");
         private static readonly int HideCardAnimation = Animator.StringToHash("Hide");
+
+        private static readonly Vector2 AverageSize = new(x: 180, y: 254);
 
         private bool _availability;
 
@@ -26,12 +31,19 @@ namespace Logic.Levels
         {
             _availability = true;
             _cardSelection = cardSelection;
+            _rectTransform = gameObject.GetComponent<RectTransform>();
         }
 
         public void OnPointerDown(PointerEventData eventData)
         {
             if (_availability)
                 OpenCard();
+        }
+
+        public void CustomizeSize(CardSize cardSize)
+        {
+            if (cardSize == CardSize.Average)
+                _rectTransform.sizeDelta = AverageSize;
         }
 
         private void OpenCard()

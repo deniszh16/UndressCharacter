@@ -2,7 +2,38 @@
 {
     public enum TypesOfCards
     {
-        Test,
-        Test2
+        BellsWithBow,
+        BigDeer,
+        BrownDeer,
+        DeerWithGift,
+        BlueSnowflake,
+        ChristmasWreath,
+        GreenGift,
+        YellowGift,
+        Mittens,
+        PurpleBall,
+        SockWithGifts,
+        SockWithoutGifts,
+        StrawberryPie,
+        TwigWithBerriesOne,
+        TwigWithBerriesTwo,
+        BlueGift,
+        GreenChristmasTree,
+        RedBag,
+        SantaClausWithBag,
+        Snowman,
+        StandingDeer,
+        Rocket,
+        Skates,
+        BellsWithBranch,
+        CandleAndBalls,
+        Garland,
+        Gingerbread,
+        GreenGiftWithBow,
+        RedCandle,
+        RedChristmasBall,
+        RedLollipop,
+        RedSockWithChristmasTree,
+        SleighWithGifts
     }
 }

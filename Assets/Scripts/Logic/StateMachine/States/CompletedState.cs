@@ -36,6 +36,9 @@ namespace Logic.StateMachine.States
             UpdateProgress();
         }
 
+        private void IncreaseLevelProgress() =>
+            _progressService.GetUserProgress.Level += 1;
+
         private void UpdateProgress()
         {
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts += Hearts;
@@ -44,15 +47,16 @@ namespace Logic.StateMachine.States
             CheckCharacterProgress();
         }
 
-        private void IncreaseLevelProgress() =>
-            _progressService.GetUserProgress.Level += 1;
-
         private void CheckCharacterProgress()
         {
             if (!_characterProgress.CheckCharacterProgress()) return;
             _levelResults.ShowCharacterUnlock();
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage += 1;
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts = 0;
+
+            if (_progressService.GetUserProgress.GetCurrentCharacter().CharacterStage >= 4)
+                _progressService.GetUserProgress.UnlockNextCharacter();
+            
             _saveLoadService.SaveProgress();
         }
 

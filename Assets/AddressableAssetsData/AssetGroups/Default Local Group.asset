@@ -22,8 +22,148 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e49633eb5022aa44592db2973297df84
-    m_Address: Assets/Content/Prefabs/Cards/Card 1.prefab
+  - m_GUID: 2d69613a8c6985b4fa741ba6ada49a2f
+    m_Address: Assets/Content/Prefabs/Cards/Card_BigDeer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e5febf405bbb564a8a116c29c5dcfd2
+    m_Address: Assets/Content/Prefabs/Cards/Card_BlueSnowflake.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cf9605adc6f66246b51737d11c5e806
+    m_Address: Assets/Content/Prefabs/Cards/Card_BrownDeer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5fe9a4c36d3912458f8ff0285e813ef
+    m_Address: Assets/Content/Prefabs/Cards/Card_YellowGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c78f05419e2cb5a4980b37c1510a8197
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_ChristmasWreath.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c018b914f243f5742a9eba4e820a2daf
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_DeerWithGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4d0f75904776b34382ad34bc41f716a
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_GreenGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6841e4a7373674646b9a912a57484ab6
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_Mittens.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 356f268de2fd9c74695ec81dc389da44
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_PurpleBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddca93dddc176e742a94bd17bfec5cfc
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_SockWithGifts.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e413fbf1c60a3834eb8098571809e766
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_SockWithoutGifts.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da6a714e22d3d264b92ce293b3867fd8
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_StrawberryPie.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0740b0f0aa90b44da0095d50c8ba011
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_TwigWithBerriesOne.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 184f616eb2cec5c49be01c806f501ad3
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_TwigWithBerriesTwo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d4b5f86992f0f54e9004b797dd790b5
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_BlueGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c48acc7f767af01418b4026e41e2ca34
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_GreenChristmasTree.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26cbf371398393042b88e1b88bc07d28
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_RedBag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44e816768258a554e85d39f721a73f94
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_SantaClausWithBag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d7c2c8cf2b9e0f46a99ec5dd08bd62f
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_Snowman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcce7fc4feddc704ab136285c7d81f69
+    m_Address: Assets/Content/Prefabs/Cards/Christmas/Card_StandingDeer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7b2dbddbdb95a24dad5eac0d891d8d4
+    m_Address: Assets/Content/Prefabs/Cards/Card_BellsWithBranch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf4802be2158c94580e3874e97c9a85
+    m_Address: Assets/Content/Prefabs/Cards/Card_RedChristmasBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d74cf9a3adc7b6c479810ec4c3d43b0a
+    m_Address: Assets/Content/Prefabs/Cards/Card_Gingerbread.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9135739ef83c31742955a094671c3682
+    m_Address: Assets/Content/Prefabs/Cards/Card_SleighWithGifts.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d496a4d8fc8bf44d8d798f2e1eb94c3
+    m_Address: Assets/Content/Prefabs/Cards/Card_CandleAndBalls.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 431f7cbf11702704592d9615ee9a372f
+    m_Address: Assets/Content/Prefabs/Cards/Card_Garland.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85fd6cc5af0840d45b69d6f48b3d772d
+    m_Address: Assets/Content/Prefabs/Cards/Card_GreenGiftWithBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc07b11cd6bc94f4eb3c12432b8911dc
+    m_Address: Assets/Content/Prefabs/Cards/Card_Rocket.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62639fb8ff412a64c9a273f39fc5d0cd
+    m_Address: Assets/Content/Prefabs/Cards/Card_RedSockWithChristmasTree.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -37,15 +37,29 @@ namespace Logic.UI.ListOfCharacters
             _currentCharacter = _progressService.GetUserProgress.CurrentCharacter;
             _currentStage = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage;
             _currentHearts = _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts;
-            _target = _staticDataService.GetCharacters(_currentCharacter).NumberOfHearts[_currentStage];
-            
-            float clampedValue = Mathf.Clamp(value: _currentHearts, min: 0f, max: _target);
-            _slider.value = clampedValue / _target;;
-            
-            int  percentages = (int)(clampedValue / _target * 100);
-            if (percentages < 0) percentages = 0;
-            if (percentages > 100) percentages = 100;
-            _progressPercentages.RecordProgressPercentages(percentages);
+
+            if (_currentStage < 4)
+            {
+                ChangeVisibilityOfProgressItems(state: true);
+                _target = _staticDataService.GetCharacters(_currentCharacter).NumberOfHearts[_currentStage];
+                float clampedValue = Mathf.Clamp(value: _currentHearts, min: 0f, max: _target);
+                _slider.value = clampedValue / _target;;
+                
+                int  percentages = (int)(clampedValue / _target * 100);
+                if (percentages < 0) percentages = 0;
+                if (percentages > 100) percentages = 100;
+                _progressPercentages.RecordProgressPercentages(percentages);
+            }
+            else
+            {
+                ChangeVisibilityOfProgressItems(state: false);
+            }
+        }
+
+        private void ChangeVisibilityOfProgressItems(bool state)
+        {
+            _slider.gameObject.SetActive(state);
+            _progressPercentages.gameObject.SetActive(state);
         }
 
         public bool CheckCharacterProgress() =>

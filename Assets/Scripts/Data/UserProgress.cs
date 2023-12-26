@@ -29,5 +29,11 @@ namespace Data
 
         public CharacterData GetCurrentCharacter() =>
             Characters[CurrentCharacter - 1];
+
+        public void UnlockNextCharacter()
+        {
+            if (CurrentCharacter < Characters.Count)
+                Characters[CurrentCharacter].Activity = true;
+        }
     }
 }
