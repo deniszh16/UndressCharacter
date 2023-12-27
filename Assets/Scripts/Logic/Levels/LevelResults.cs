@@ -13,6 +13,8 @@ namespace Logic.Levels
         [SerializeField] private ParticleSystem _confettiEffect;
         [SerializeField] private Button _doubleButton;
         [SerializeField] private TextMeshProUGUI _characterUnlocked;
+        [SerializeField] private Button _continueButton;
+        [SerializeField] private Button _exitButton;
 
         public event Action RewardIncreased;
         
@@ -43,6 +45,12 @@ namespace Logic.Levels
         {
             _doubleButton.gameObject.SetActive(false);
             _characterUnlocked.gameObject.SetActive(true);
+        }
+
+        public void HideContinueButton()
+        {
+            _continueButton.gameObject.SetActive(false);
+            _exitButton.transform.position = new Vector3(0, _exitButton.transform.position.y, 0);
         }
 
         public void ShowLossPanel(bool visibility) =>

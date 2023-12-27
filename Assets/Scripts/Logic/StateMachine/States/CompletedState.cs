@@ -55,8 +55,11 @@ namespace Logic.StateMachine.States
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts = 0;
 
             if (_progressService.GetUserProgress.GetCurrentCharacter().CharacterStage >= 4)
+            {
                 _progressService.GetUserProgress.UnlockNextCharacter();
-            
+                _levelResults.HideContinueButton();
+            }
+
             _saveLoadService.SaveProgress();
         }
 

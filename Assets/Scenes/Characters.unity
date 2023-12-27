@@ -753,6 +753,7 @@ MonoBehaviour:
   _currentCharacter: {fileID: 1336499636}
   _stageButtons: {fileID: 542039326}
   _characterProgress: {fileID: 271883553}
+  _startButton: {fileID: 412807820}
 --- !u!224 &247209171 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6572138052042721931, guid: 7b907daa4684f044ea4808f2537861db, type: 3}
@@ -1070,6 +1071,7 @@ GameObject:
   - component: {fileID: 412807818}
   - component: {fileID: 412807817}
   - component: {fileID: 412807816}
+  - component: {fileID: 412807820}
   - component: {fileID: 412807819}
   m_Layer: 5
   m_Name: Button_Start
@@ -1194,6 +1196,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _button: {fileID: 412807816}
   _scene: 3
+--- !u!114 &412807820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 412807814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 561ed67664494278931e7ae1802eaf70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _button: {fileID: 412807816}
 --- !u!1 &429201337
 GameObject:
   m_ObjectHideFlags: 0

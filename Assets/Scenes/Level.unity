@@ -17912,6 +17912,8 @@ MonoBehaviour:
   _confettiEffect: {fileID: 2101888042}
   _doubleButton: {fileID: 584744486}
   _characterUnlocked: {fileID: 1104328392}
+  _continueButton: {fileID: 121992616}
+  _exitButton: {fileID: 1050464500}
   _lossPanel: {fileID: 656066356}
 --- !u!1001 &1387477859
 PrefabInstance:

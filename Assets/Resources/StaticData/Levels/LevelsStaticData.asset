@@ -112,7 +112,7 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    Seconds: 45
+    Seconds: 30
   - Formation: 2
     CardSize: 0
     Cards:
@@ -156,7 +156,7 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    Seconds: 60
+    Seconds: 35
   - Formation: 2
     CardSize: 0
     Cards:
@@ -200,7 +200,7 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    Seconds: 60
+    Seconds: 40
   - Formation: 3
     CardSize: 1
     Cards:
@@ -260,4 +260,4 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    Seconds: 70
+    Seconds: 45

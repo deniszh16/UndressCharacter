@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Logic.UI.Buttons;
 using Services.PersistentProgress;
 using UnityEngine;
 using UnityEngine.UI;
@@ -18,10 +19,14 @@ namespace Logic.UI.ListOfCharacters
         private int _progress;
 
         private IPersistentProgressService _progressService;
+        private StartButton _startButton;
 
         [Inject]
-        private void Construct(IPersistentProgressService progressService) =>
+        private void Construct(IPersistentProgressService progressService, StartButton startButton)
+        {
             _progressService = progressService;
+            _startButton = startButton;
+        }
 
         private void Start() =>
             ShowCurrentCharacter(lastImage: true);
@@ -32,6 +37,9 @@ namespace Logic.UI.ListOfCharacters
             _progress = lastImage
                 ? _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage - 1
                 : selectedOption;
+
+            bool buttonState = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage - 1 < 3;
+            _startButton.ChangeButtonActivity(buttonState);
             
             _image.sprite = _characters[_character].Clothes[_progress];
         }
