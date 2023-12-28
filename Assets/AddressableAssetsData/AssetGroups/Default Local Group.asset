@@ -167,6 +167,46 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99ce1efc7b457e741ae765d6e582c816
+    m_Address: Assets/Content/Prefabs/Cards/Card_RedCandle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f84f348af935f094f94e3b4a504b74de
+    m_Address: Assets/Content/Prefabs/Cards/Card_RedLollipop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d0899bf3e2a97b48b7edaf3bbd3a31e
+    m_Address: Assets/Content/Prefabs/Cards/Card_Skates.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5387f0039bae80546a439585b78b11f0
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_LaughingEmoticonWithHorns.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79f4cfc41bd9b4c4ca4b5441999cd106
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyInGreenHatWithTongue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec4cae7a7221c8f4a9d193f6a0154cb2
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyInGreenHatWithWideSmile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e940c9242cdad6e43b1528439a7e8f85
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyInHatScarf.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f6bac8b6b0b2c348a17d17b68d41048
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileySantaClaus.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 376388a6a9b877e44b198ab2d0d034c3, type: 2}
   m_SchemaSet:

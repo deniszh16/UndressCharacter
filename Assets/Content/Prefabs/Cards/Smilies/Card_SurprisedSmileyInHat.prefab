@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8311142545749902197}
   - component: {fileID: 73096695842289293}
   m_Layer: 5
-  m_Name: Card_
+  m_Name: Card_SurprisedSmileyInHat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -120,10 +120,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d33c5541b1224defb41dff0610c7daf8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: 0
+  _type: 45
   _animator: {fileID: 7056485816378766870}
   _boxCollider: {fileID: 8311142545749902197}
-  _rectTransform: {fileID: 0}
 --- !u!1 &4452812491972630094
 GameObject:
   m_ObjectHideFlags: 0
@@ -141,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3214035464102375577
 RectTransform:
   m_ObjectHideFlags: 0
@@ -156,10 +155,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 5787433652428248118}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 160, y: 160}
+  m_SizeDelta: {x: -60, y: -140}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3779727405854014442
 CanvasRenderer:
@@ -189,7 +188,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a069f03d31021741858d2a4ed6a2dde, type: 3}
+  m_Sprite: {fileID: 21300000, guid: db213d8babeb6e741b6418edb6948270, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

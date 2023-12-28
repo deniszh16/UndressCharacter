@@ -123,7 +123,6 @@ MonoBehaviour:
   _type: 3
   _animator: {fileID: 7056485816378766870}
   _boxCollider: {fileID: 8311142545749902197}
-  _rectTransform: {fileID: 0}
 --- !u!1 &4452812491972630094
 GameObject:
   m_ObjectHideFlags: 0

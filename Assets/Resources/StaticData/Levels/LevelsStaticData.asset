@@ -261,3 +261,199 @@ MonoBehaviour:
       m_SubObjectType: 
       m_EditorAssetChanged: 0
     Seconds: 45
+  - Formation: 4
+    CardSize: 1
+    Cards:
+    - m_AssetGUID: 99ce1efc7b457e741ae765d6e582c816
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 99ce1efc7b457e741ae765d6e582c816
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: f84f348af935f094f94e3b4a504b74de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: f84f348af935f094f94e3b4a504b74de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1d0899bf3e2a97b48b7edaf3bbd3a31e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1d0899bf3e2a97b48b7edaf3bbd3a31e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 9cf9605adc6f66246b51737d11c5e806
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 9cf9605adc6f66246b51737d11c5e806
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 40
+  - Formation: 5
+    CardSize: 1
+    Cards:
+    - m_AssetGUID: 5387f0039bae80546a439585b78b11f0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 356f268de2fd9c74695ec81dc389da44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 3cf4802be2158c94580e3874e97c9a85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: b5fe9a4c36d3912458f8ff0285e813ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 79f4cfc41bd9b4c4ca4b5441999cd106
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 3cf4802be2158c94580e3874e97c9a85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d74cf9a3adc7b6c479810ec4c3d43b0a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d74cf9a3adc7b6c479810ec4c3d43b0a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: f84f348af935f094f94e3b4a504b74de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 5387f0039bae80546a439585b78b11f0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 356f268de2fd9c74695ec81dc389da44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: f84f348af935f094f94e3b4a504b74de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2d69613a8c6985b4fa741ba6ada49a2f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 79f4cfc41bd9b4c4ca4b5441999cd106
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2d69613a8c6985b4fa741ba6ada49a2f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: b5fe9a4c36d3912458f8ff0285e813ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 50
+  - Formation: 6
+    CardSize: 1
+    Cards:
+    - m_AssetGUID: d7b2dbddbdb95a24dad5eac0d891d8d4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ec4cae7a7221c8f4a9d193f6a0154cb2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e940c9242cdad6e43b1528439a7e8f85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: e940c9242cdad6e43b1528439a7e8f85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ec4cae7a7221c8f4a9d193f6a0154cb2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1d496a4d8fc8bf44d8d798f2e1eb94c3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1d496a4d8fc8bf44d8d798f2e1eb94c3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d7b2dbddbdb95a24dad5eac0d891d8d4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 431f7cbf11702704592d9615ee9a372f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 26cbf371398393042b88e1b88bc07d28
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 44e816768258a554e85d39f721a73f94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 44e816768258a554e85d39f721a73f94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2f6bac8b6b0b2c348a17d17b68d41048
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2f6bac8b6b0b2c348a17d17b68d41048
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 26cbf371398393042b88e1b88bc07d28
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c48acc7f767af01418b4026e41e2ca34
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Seconds: 50

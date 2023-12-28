@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Logic.StaticData;
@@ -22,13 +21,13 @@ namespace Logic.Levels
 
         public void Construct(CardSelection cardSelection, CardSize cardSize)
         {
+            _createdCards = new List<GameObject>();
             _cardSelection = cardSelection;
             _cardSize = cardSize;
         }
 
         public void EnableSelectedArrangement(TypesOfFormations type)
         {
-            _createdCards = new List<GameObject>();
             foreach (var arrangement in _arrangement)
             {
                 if (type != arrangement.Type) continue;
