@@ -2581,6 +2581,36 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
     - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
     - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  - _clothes:
+    - {fileID: 21300000, guid: 5ac006efb796b8649bac746d35afe36f, type: 3}
+    - {fileID: 21300000, guid: 964758342d237f74b973d5f4d6078223, type: 3}
+    - {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+    - {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
   _image: {fileID: 1336499637}
 --- !u!114 &1336499637
 MonoBehaviour:

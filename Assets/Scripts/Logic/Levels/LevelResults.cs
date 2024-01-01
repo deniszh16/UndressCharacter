@@ -53,6 +53,9 @@ namespace Logic.Levels
             _exitButton.transform.position = new Vector3(0, _exitButton.transform.position.y, 0);
         }
 
+        public void DisableContinueButtonInteractivity() =>
+            _continueButton.interactable = false;
+
         public void ShowLossPanel(bool visibility) =>
             _lossPanel.SetActive(visibility);
 

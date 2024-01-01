@@ -18,6 +18,8 @@ namespace Logic.UI.ListOfCharacters
         private int _character;
         private int _progress;
 
+        private int _levelLimit = 56;
+
         private IPersistentProgressService _progressService;
         private StartButton _startButton;
 
@@ -40,7 +42,13 @@ namespace Logic.UI.ListOfCharacters
 
             bool buttonState = _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage - 1 < 3;
             _startButton.ChangeButtonActivity(buttonState);
-            
+
+            if (buttonState)
+            {
+                bool levelNumber = _progressService.GetUserProgress.Level < _levelLimit;
+                _startButton.ChangeButtonActivity(levelNumber);
+            }
+
             _image.sprite = _characters[_character].Clothes[_progress];
         }
     }

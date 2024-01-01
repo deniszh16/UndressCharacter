@@ -54,6 +54,9 @@ namespace Logic.StateMachine.States
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterStage += 1;
             _progressService.GetUserProgress.GetCurrentCharacter().CharacterHearts = 0;
 
+            if (_progressService.GetUserProgress.Level > 55)
+                _levelResults.DisableContinueButtonInteractivity();
+
             if (_progressService.GetUserProgress.GetCurrentCharacter().CharacterStage >= 4)
             {
                 _progressService.GetUserProgress.UnlockNextCharacter();

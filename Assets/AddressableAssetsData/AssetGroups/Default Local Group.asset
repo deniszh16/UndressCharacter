@@ -207,6 +207,186 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91e4573e01915f84f83079a6d9f72486
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileySantaClausWithSmallSmile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 397e60c1a0929fa4e982d0250e20ef53
+    m_Address: Assets/Content/Prefabs/Cards/Card_SnowmanWithGloves.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ddcb9ded5015944a81bd0bca2d5947c
+    m_Address: Assets/Content/Prefabs/Cards/Card_BlueSnowflakes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19622f0ae89ba4f44983c2ac056b4bed
+    m_Address: Assets/Content/Prefabs/Cards/Card_CupOfTea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f09bce98dcc09514b890e04696e963d0
+    m_Address: Assets/Content/Prefabs/Cards/Card_YellowStar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b4545420b1211e4783d618e551464e8
+    m_Address: Assets/Content/Prefabs/Cards/Card_BranchWithBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4c59f1317921424e840a48aa58f90a7
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyWithHatGlasses.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9339807018277cc4496b7ef48b72d4df
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyWithBubbles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 202ef5aa7bd79dc43bf952da31781fbc
+    m_Address: Assets/Content/Prefabs/Cards/Card_CandyWithBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab261efc138bc23468c0b846e8148e4c
+    m_Address: Assets/Content/Prefabs/Cards/Card_GiftWithMultiColoredBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d8a9b224e80bb74d84f7a85b777f5a7
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyWithHorns.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6990c6be140b8424b8edf86f0e02ab66
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SnowmanEmoticonWearingHat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51d19f17db438d142b2ff33804f52a16
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SnowmanEmoticonWithWideSmile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c633a9d532330045bf841ef26da43f0
+    m_Address: Assets/Content/Prefabs/Cards/Card_CookieMan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 908faf456025b5c4c80ca758a2e4b727
+    m_Address: Assets/Content/Prefabs/Cards/Card_YellowChristmasBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50670b3e30a448f4a9550f7a407f7af1
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SurprisedSmileyInHat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53416d2d7d695e040ad26fddb21304f9
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_WinkingSmileyWithGreenHat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2895f43d3607c954b9b23e096b196842
+    m_Address: Assets/Content/Prefabs/Cards/Card_Penguins.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b11013f4638774e83c32788054f234
+    m_Address: Assets/Content/Prefabs/Cards/Card_CrowWithGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df0bad8958dc6d0428c526eee6fa2b79
+    m_Address: Assets/Content/Prefabs/Cards/Card_DeerWithGarland.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de1c93f733e2fc14da3287f793c10ad5
+    m_Address: Assets/Content/Prefabs/Cards/Card_WhiteGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41ca8765af8ca2943b8858840428e1ea
+    m_Address: Assets/Content/Prefabs/Cards/Card_Tag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c4d66be09fbafc46841f572eb949e96
+    m_Address: Assets/Content/Prefabs/Cards/Card_Letter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cd97a6d7a3e1d142925b3f6b9478b3a
+    m_Address: Assets/Content/Prefabs/Cards/Card_HeavyBag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58d25d4ed7a809e4aa2fa7d7514f2612
+    m_Address: Assets/Content/Prefabs/Cards/Card_DecoratedChristmasTree.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da28d9d3af791174fa6db486126bee42
+    m_Address: Assets/Content/Prefabs/Cards/Card_ElfWithGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8adb42df8e4332449ae4f44b1db877f8
+    m_Address: Assets/Content/Prefabs/Cards/Card_GingerbreadWithCaramel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2a2b90409789a54a8ff0f4d032bae9e
+    m_Address: Assets/Content/Prefabs/Cards/Card_NewYearsBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da6368894859824a8f518205cd64961
+    m_Address: Assets/Content/Prefabs/Cards/Card_GreenNewYearsWreath.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37a01884a6b7e204497b79d3bf75feff
+    m_Address: Assets/Content/Prefabs/Cards/Card_PinkGift.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da19879df8676c5468d350a6146a56c3
+    m_Address: Assets/Content/Prefabs/Cards/Card_RedFlower.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4366ed4c4da913d4dba08dbc872ab022
+    m_Address: Assets/Content/Prefabs/Cards/Card_SetOfGifts.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09cafa76bc34d564db8cf0f15b52e372
+    m_Address: Assets/Content/Prefabs/Cards/Card_SkateForSkating.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0496654daff4e5448fedd3d0cd2dee5
+    m_Address: Assets/Content/Prefabs/Cards/Card_SnowmanWithBranchesCarrots.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae09d383076f3ea489bfa5fcd0c4ee0b
+    m_Address: Assets/Content/Prefabs/Cards/Card_TwoLollipops.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85ebd93f1330d8848a761d28c580e435
+    m_Address: Assets/Content/Prefabs/Cards/Smilies/Card_SmileyWithHearts.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 376388a6a9b877e44b198ab2d0d034c3, type: 2}
   m_SchemaSet:
