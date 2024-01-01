@@ -2,6 +2,7 @@ using Services.Localization;
 using Services.PersistentProgress;
 using Services.SceneLoader;
 using Services.SaveLoad;
+using Services.Sound;
 using Services.StaticData;
 using UnityEngine;
 using Zenject;
@@ -12,6 +13,7 @@ namespace Bootstraper
     {
         [SerializeField] private LocalizationService _localizationService;
         [SerializeField] private SceneLoaderService _sceneLoader;
+        [SerializeField] private SoundService _soundService;
         
         private IPersistentProgressService _progressService;
         private ISaveLoadService _saveLoadService;
@@ -23,6 +25,7 @@ namespace Bootstraper
             BindLocalizationService();
             BindSceneLoader();
             BindStaticData();
+            BindSoundService();
         }
         
         private void BindPersistentProgress()
@@ -55,6 +58,12 @@ namespace Bootstraper
             staticDataService.LoadCharacters();
             staticDataService.LoadLevels();
             Container.BindInstance(staticDataService).AsSingle();
+        }
+
+        private void BindSoundService()
+        {
+            SoundService soundService = Container.InstantiatePrefabForComponent<SoundService>(_soundService);
+            Container.Bind<ISoundService>().To<SoundService>().FromInstance(soundService).AsSingle();
         }
     }
 }

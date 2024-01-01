@@ -11,6 +11,7 @@ namespace Data
         public List<CharacterData> Characters;
         public int CurrentCharacter;
 
+        public bool Sound;
         public int Locale;
 
         public UserProgress()
@@ -24,6 +25,7 @@ namespace Data
             CurrentCharacter = 1;
             Characters[CurrentCharacter - 1].Activity = true;
 
+            Sound = true;
             Locale = Application.systemLanguage == SystemLanguage.Russian ? 0 : 1;
         }
 
