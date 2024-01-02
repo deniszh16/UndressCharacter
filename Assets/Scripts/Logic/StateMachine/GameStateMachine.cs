@@ -3,6 +3,7 @@ using Logic.StateMachine.States;
 using Logic.UI.ListOfCharacters;
 using Services.PersistentProgress;
 using Services.SaveLoad;
+using Services.Sound;
 using Services.StaticData;
 using UnityEngine;
 using Zenject;
@@ -15,6 +16,7 @@ namespace Logic.StateMachine
         private IStaticDataService _staticDataService;
         private IPersistentProgressService _progressService;
         private ISaveLoadService _saveLoadService;
+        private ISoundService _soundService;
 
         private ArrangementOfCards _arrangementOfCards;
         private CardSelection _cardSelection;
@@ -26,13 +28,14 @@ namespace Logic.StateMachine
 
         [Inject]
         private void Construct(StateMachine stateMachine, IStaticDataService staticDataService, IPersistentProgressService progressService,
-            ISaveLoadService saveLoadService, ArrangementOfCards arrangementOfCards, CardSelection cardSelection,
+            ISaveLoadService saveLoadService, ISoundService soundService, ArrangementOfCards arrangementOfCards, CardSelection cardSelection,
             LevelTimer levelTimer, GamePause gamePause, CharacterProgress characterProgress, LevelResults levelResults)
         {
             _stateMachine = stateMachine;
             _staticDataService = staticDataService;
             _progressService = progressService;
             _saveLoadService = saveLoadService;
+            _soundService = soundService;
             _arrangementOfCards = arrangementOfCards;
             _cardSelection = cardSelection;
             _levelTimer = levelTimer;
@@ -44,10 +47,10 @@ namespace Logic.StateMachine
         private void Awake()
         {
             _stateMachine.AddState(new InitialState(_stateMachine, _staticDataService, _progressService, _arrangementOfCards, _cardSelection, _levelTimer));
-            _stateMachine.AddState(new PlayState(_stateMachine, _levelTimer, _cardSelection));
-            _stateMachine.AddState(new PauseState(_stateMachine, _gamePause));
-            _stateMachine.AddState(new LosingState(_stateMachine, _gamePause, _levelResults));
-            _stateMachine.AddState(new CompletedState(_stateMachine, _progressService, _saveLoadService, _gamePause, _characterProgress, _levelResults));
+            _stateMachine.AddState(new PlayState(_stateMachine, _soundService, _levelTimer, _cardSelection));
+            _stateMachine.AddState(new PauseState(_stateMachine, _gamePause, _soundService));
+            _stateMachine.AddState(new LosingState(_stateMachine, _soundService, _gamePause, _levelResults));
+            _stateMachine.AddState(new CompletedState(_stateMachine, _progressService, _saveLoadService, _soundService, _gamePause, _characterProgress, _levelResults));
         }
 
         private void Start() =>

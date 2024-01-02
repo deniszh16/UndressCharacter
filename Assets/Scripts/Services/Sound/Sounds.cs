@@ -2,6 +2,10 @@
 {
     public enum Sounds
     {
-        
+        SimpleButton,
+        CorrectCards,
+        WrongCards,
+        Losing,
+        Victory
     }
 }

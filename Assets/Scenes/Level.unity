@@ -7971,6 +7971,7 @@ GameObject:
   - component: {fileID: 584744488}
   - component: {fileID: 584744487}
   - component: {fileID: 584744486}
+  - component: {fileID: 584744489}
   m_Layer: 5
   m_Name: Button_DoubleReward
   m_TagString: Untagged
@@ -8042,7 +8043,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 584744487}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 584744489}
+        m_TargetAssemblyTypeName: Logic.Sounds.PlayingSound, Assembly-CSharp
+        m_MethodName: PlaySound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &584744487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8081,6 +8094,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584744484}
   m_CullTransparentMesh: 1
+--- !u!114 &584744489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584744484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6bb0b05bb2041b28f75e913b9c69813, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _autoplay: 0
+  _sound: 0
 --- !u!1001 &585097131
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22434,34 +22461,6 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 6d3db31d853ffd8438955f998e9e981f, type: 3}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 588461159}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: AAAAAAAAAAAAA
-      objectReference: {fileID: 0}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: Logic.Levels.ArrangementOfCards, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 6443749171605462009, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Pause

@@ -2,6 +2,7 @@
 using Logic.UI.ListOfCharacters;
 using Services.PersistentProgress;
 using Services.SaveLoad;
+using Services.Sound;
 
 namespace Logic.StateMachine.States
 {
@@ -11,17 +12,19 @@ namespace Logic.StateMachine.States
 
         private readonly IPersistentProgressService _progressService;
         private readonly ISaveLoadService _saveLoadService;
+        private readonly ISoundService _soundService;
         
         private readonly GamePause _gamePause;
         private readonly CharacterProgress _characterProgress;
         private readonly LevelResults _levelResults;
 
-        public CompletedState(StateMachine stateMachine, IPersistentProgressService progressService,
-            ISaveLoadService saveLoadService, GamePause gamePause, CharacterProgress characterProgress,
+        public CompletedState(StateMachine stateMachine, IPersistentProgressService progressService, ISaveLoadService saveLoadService,
+            ISoundService soundService, GamePause gamePause, CharacterProgress characterProgress,
             LevelResults levelResults) : base(stateMachine)
         {
             _progressService = progressService;
             _saveLoadService = saveLoadService;
+            _soundService = soundService;
             _gamePause = gamePause;
             _characterProgress = characterProgress;
             _levelResults = levelResults;
@@ -32,6 +35,8 @@ namespace Logic.StateMachine.States
             _gamePause.ChangeButtonVisibility(visibility: false);
             _levelResults.ShowVictoryPanel();
             _levelResults.RewardIncreased += UpdateProgress;
+            _soundService.StopBackgroundMusic();
+            _soundService.PlaySound(Services.Sound.Sounds.Victory);
             IncreaseLevelProgress();
             UpdateProgress();
         }

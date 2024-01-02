@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5106995260876659554}
   - component: {fileID: 4430646973570757324}
   - component: {fileID: 1420261500907168336}
+  - component: {fileID: 1308005438676097661}
   - component: {fileID: 6532148138874976914}
   m_Layer: 5
   m_Name: Button_Character
@@ -123,6 +124,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1308005438676097661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278688162867982753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6bb0b05bb2041b28f75e913b9c69813, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _autoplay: 0
+  _sound: 0
 --- !u!114 &6532148138874976914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135,6 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afff18482b734f908d588b01ee1a0a70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _number: 0
   _image: {fileID: 4912972773448811058}
   _button: {fileID: 1420261500907168336}
   _characterIcon: {fileID: 0}

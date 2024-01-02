@@ -273,6 +273,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _audioSourceBackgroundMusic: {fileID: 2006383832190058168}
-  _audioClips: []
+  _audioClips:
+  - {fileID: 8300000, guid: a4c54b70c92037340b95403c7ab342bf, type: 3}
+  - {fileID: 8300000, guid: 43255bae0eb44d84293e07f56d8c6b27, type: 3}
+  - {fileID: 8300000, guid: 2c9bd1ee31389f24a991a8bbec03fe3b, type: 3}
   _audioSourceSounds: {fileID: 6564733494389172531}
-  _uiSounds: []
+  _uiSounds:
+  - {fileID: 8300000, guid: 4bfcc49e880223b4fa04a44318a902a1, type: 3}
+  - {fileID: 8300000, guid: c46c5bcc2213555409911ef4179dee48, type: 3}
+  - {fileID: 8300000, guid: 476f95c95489dbc4fa0035c0af26d202, type: 3}
+  - {fileID: 8300000, guid: 68a1dba1d4d29fb4eb788a304fd782d0, type: 3}
+  - {fileID: 8300000, guid: bf653dfb585fa394d947b4a3b8ea024c, type: 3}

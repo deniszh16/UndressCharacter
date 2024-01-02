@@ -1,15 +1,18 @@
 ﻿using Logic.Levels;
+using Services.Sound;
 
 namespace Logic.StateMachine.States
 {
     public class PlayState : BaseStates
     {
+        private readonly ISoundService _soundService;
         private readonly LevelTimer _levelTimer;
         private readonly CardSelection _cardSelection;
         
-        public PlayState(StateMachine stateMachine, LevelTimer levelTimer,
+        public PlayState(StateMachine stateMachine, ISoundService soundService, LevelTimer levelTimer,
             CardSelection cardSelection) : base(stateMachine)
         {
+            _soundService = soundService;
             _levelTimer = levelTimer;
             _cardSelection = cardSelection;
         }
@@ -20,6 +23,7 @@ namespace Logic.StateMachine.States
             _levelTimer.TimerCompleted += OnLevelLost;
             _levelTimer.StartTimer();
             _cardSelection.AllCardsFound += OnLevelPassed;
+            _soundService.SettingBackgroundMusic();
         }
         
         private void OnLevelPassed()

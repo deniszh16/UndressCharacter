@@ -15,7 +15,8 @@ namespace Logic.StateMachine.States
         private readonly LevelTimer _levelTimer;
         
         public InitialState(StateMachine stateMachine, IStaticDataService staticDataService, IPersistentProgressService progressService,
-            ArrangementOfCards arrangementOfCards, CardSelection cardSelection, LevelTimer levelTimer) : base(stateMachine)
+            ArrangementOfCards arrangementOfCards, CardSelection cardSelection,
+            LevelTimer levelTimer) : base(stateMachine)
         {
             _staticDataService = staticDataService;
             _progressService = progressService;
