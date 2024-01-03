@@ -39,6 +39,10 @@ MonoBehaviour:
     m_Key: key_CharacterUnlock
     m_Metadata:
       m_Items: []
+  - m_Id: 6859577119584256
+    m_Key: key_Loading
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

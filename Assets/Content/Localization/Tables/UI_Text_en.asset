@@ -44,6 +44,10 @@ MonoBehaviour:
     m_Localized: New character image received
     m_Metadata:
       m_Items: []
+  - m_Id: 6859577119584256
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
