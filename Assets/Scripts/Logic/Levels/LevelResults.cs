@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using YG;
 
 namespace Logic.Levels
 {
@@ -15,14 +16,19 @@ namespace Logic.Levels
         [SerializeField] private TextMeshProUGUI _characterUnlocked;
         [SerializeField] private Button _continueButton;
         [SerializeField] private Button _exitButton;
+        
+        private const int RewardId = 1;
 
         public event Action RewardIncreased;
         
         [Header("Панель поражения")]
         [SerializeField] private GameObject _lossPanel;
 
-        private void OnEnable() =>
-            _doubleButton.onClick.AddListener(DoubleYourReward);
+        private void OnEnable()
+        {
+            _doubleButton.onClick.AddListener(() => ShowVideoAds(id: 1));
+            YandexGame.RewardVideoEvent += DoubleYourReward;
+        }
 
         public void ShowVictoryPanel() =>
             _ = StartCoroutine(ShowVictoryPanelCoroutine());
@@ -34,11 +40,17 @@ namespace Logic.Levels
             _confettiEffect.gameObject.SetActive(true);
             _confettiEffect.Play();
         }
+        
+        private void ShowVideoAds(int id) =>
+            YandexGame.RewVideoShow(id);
 
-        private void DoubleYourReward()
+        private void DoubleYourReward(int id)
         {
-            _doubleButton.interactable = false;
-            RewardIncreased?.Invoke();
+            if (id == RewardId)
+            {
+                _doubleButton.interactable = false;
+                RewardIncreased?.Invoke();
+            }
         }
 
         public void ShowCharacterUnlock()
@@ -59,8 +71,11 @@ namespace Logic.Levels
         public void ShowLossPanel(bool visibility) =>
             _lossPanel.SetActive(visibility);
 
-        private void OnDisable() =>
-            _doubleButton.onClick.RemoveListener(DoubleYourReward);
+        private void OnDisable()
+        {
+            _doubleButton.onClick.RemoveAllListeners();
+            YandexGame.RewardVideoEvent -= DoubleYourReward;
+        }
 
         private void OnDestroy() =>
             RewardIncreased = null;
