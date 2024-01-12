@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d33c5541b1224defb41dff0610c7daf8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: 0
+  _type: 38
   _animator: {fileID: 7056485816378766870}
   _boxCollider: {fileID: 8311142545749902197}
 --- !u!1 &4452812491972630094

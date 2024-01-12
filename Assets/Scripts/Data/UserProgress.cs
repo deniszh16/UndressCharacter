@@ -18,7 +18,7 @@ namespace Data
         {
             Level = 1;
             
-            Characters = new List<CharacterData>(capacity: 8);
+            Characters = new List<CharacterData>(capacity: 4);
             for (int i = 0; i < Characters.Capacity; i++)
                 Characters.Add(new CharacterData());
             
