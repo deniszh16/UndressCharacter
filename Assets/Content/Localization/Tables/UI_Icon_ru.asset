@@ -18,12 +18,12 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 1559660703744
-    m_Localized: 35e785656d8aff041ac67d713bba29fa
+  - m_Id: 19946871029055488
+    m_Localized: 'c9890667cdfd368498909761e52664d3[Title_rus]'
     m_Metadata:
       m_Items: []
-  - m_Id: 2288345526272
-    m_Localized: 321e53923b5013a4a8f1b23152fb3ba0
+  - m_Id: 19947239125368832
+    m_Localized: 'a6393f835f549904cad040337f143d86[Icon_russian]'
     m_Metadata:
       m_Items: []
   references:

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: LevelsStaticData
   m_EditorClassIdentifier: 
   Levels:
-  - Formation: 0
+  - Formation: 1
     CardSize: 0
     Cards:
     - m_AssetGUID: de07730a85dadb646b7050193117286c
@@ -36,7 +36,15 @@ MonoBehaviour:
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
+    - m_AssetGUID: 6841e4a7373674646b9a912a57484ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
     - m_AssetGUID: b5fe9a4c36d3912458f8ff0285e813ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6841e4a7373674646b9a912a57484ab6
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0

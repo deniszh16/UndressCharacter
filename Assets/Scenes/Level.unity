@@ -543,7 +543,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d3c6ecd00bc903d4dbf12bc4f87d3519, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2002,7 +2002,7 @@ PrefabInstance:
     - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 5495415223916332266, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_SizeDelta.x
       value: 80
@@ -2014,11 +2014,11 @@ PrefabInstance:
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: caff7a401f7cf5640a4bed5e5d705cfc, type: 3}
+      objectReference: {fileID: 21300000, guid: 21581f5462cb9e149886a2ec09d576f5, type: 3}
     - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_NextLevel
@@ -2427,7 +2427,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9d32c8315eccde548999fbb35a7a4d39, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d3c6ecd00bc903d4dbf12bc4f87d3519, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2850,7 +2850,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e442acfc72c82d5489992bf744f804f4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8f4939dae3a080c4d89e818ce172c153, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2961,7 +2961,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c8e6a37259fc7044493b909547fa1949, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 65b301df748648d40b0847f418a2e703, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2970,7 +2970,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1.5
+  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &209309293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3596,7 +3596,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d0a534d0e78eba74a9d631ae64602074, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c3d909a167ff7f345a3bcca6b40980ba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4581,7 +4581,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 384a4b8f654b3e645863351bf93a6cf9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bf12182efdf3de74f92a14177d582af9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7721,7 +7721,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8d831c4ad4a44b74796b229c384aea6e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 48dc2f5a4b481874a834c7da637450f7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8137,7 +8137,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 060443c2f39019f439f3b05a00f75068, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d870c98e69dccb546b6cb0307abd6ea5, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10864,7 +10864,7 @@ PrefabInstance:
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ec4f831cbbe80484bb1381f039a00a7e, type: 3}
+      objectReference: {fileID: 21300000, guid: e22d8d27c7d383846a4586f8eabf8b71, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Exit
@@ -11385,8 +11385,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d433ed5b3f3df9e41910045326e67192, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 2db3e5ccbc7bb4d4eb427b03b14347b9, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -13477,7 +13477,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fd3e6ec81dfba8e41af57dc339ec95dc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 38572e7a36464824a882260a547cf70e, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13829,7 +13829,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2598893d64214ea45af7f782962af852, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c62873d7fa301b448bd28533cef15bef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14010,7 +14010,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 796c7278eef2fc448a3c0d484d8c009e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58383b5b3f05d8c45acacf4de6742573, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14043,15 +14043,15 @@ PrefabInstance:
     - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 372fa0f86419f5242a3eda4fe7db14b8, type: 3}
+      objectReference: {fileID: 21300000, guid: f17b6ef8c82f6e746ab6c6a64756bfa9, type: 3}
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ec4f831cbbe80484bb1381f039a00a7e, type: 3}
+      objectReference: {fileID: 21300000, guid: e22d8d27c7d383846a4586f8eabf8b71, type: 3}
     - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 372fa0f86419f5242a3eda4fe7db14b8, type: 3}
+      objectReference: {fileID: 21300000, guid: f17b6ef8c82f6e746ab6c6a64756bfa9, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Exit
@@ -14604,7 +14604,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278452479
+    rgba: 4278452429
   m_fontColor: {r: 0.8039216, g: 0, b: 0.014722824, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -14698,7 +14698,19 @@ MonoBehaviour:
   m_FormatArguments: []
   m_UpdateString:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1104328392}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: set_text
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   references:
     version: 2
     RefIds: []
@@ -15353,7 +15365,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 997aff3e225ed014ab9d834a188e47e1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 12b3fcf43295d924581434db5cd9d081, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17053,7 +17065,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 796c7278eef2fc448a3c0d484d8c009e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58383b5b3f05d8c45acacf4de6742573, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17128,7 +17140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 796c7278eef2fc448a3c0d484d8c009e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58383b5b3f05d8c45acacf4de6742573, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18322,8 +18334,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ebb2c82d734d60c49a0b28aa8aa7b1c6, type: 3}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: d43d39f4c4d2e73409fd03f33f9971ac, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -18397,7 +18409,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 65a671e6121dc1342a15a85b5aa2a53c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 808485679c6069c41a3c7d4770b7857e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18434,15 +18446,15 @@ PrefabInstance:
     - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2dba94f4cd40e0c48ba4bb4b46f4a193, type: 3}
+      objectReference: {fileID: 21300000, guid: cb83b8a540e33fc4f88518df3f3311ee, type: 3}
     - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Continue
@@ -20219,7 +20231,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c8e6a37259fc7044493b909547fa1949, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 65b301df748648d40b0847f418a2e703, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -20366,7 +20378,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c8e6a37259fc7044493b909547fa1949, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 65b301df748648d40b0847f418a2e703, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -20375,7 +20387,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1.5
+  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1561603488
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21505,15 +21517,15 @@ PrefabInstance:
     - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ec4f831cbbe80484bb1381f039a00a7e, type: 3}
+      objectReference: {fileID: 21300000, guid: e22d8d27c7d383846a4586f8eabf8b71, type: 3}
     - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2f724a89b749d6e42869bc2dedad070f, type: 3}
+      objectReference: {fileID: 21300000, guid: dc4f224cacc72b845a40ff72030746f1, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Exit
@@ -22498,10 +22510,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 460935098}
     m_Modifications:
-    - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 6d3db31d853ffd8438955f998e9e981f, type: 3}
     - target: {fileID: 5495415223916332266, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_SizeDelta.x
       value: 76
@@ -22517,11 +22525,7 @@ PrefabInstance:
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d780d37c8f6b07a418f7b4e3b753efb7, type: 3}
-    - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 6d3db31d853ffd8438955f998e9e981f, type: 3}
+      objectReference: {fileID: 21300000, guid: 875572ec39b405842bb947583a8bc784, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Pause
@@ -23099,7 +23103,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e442acfc72c82d5489992bf744f804f4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8f4939dae3a080c4d89e818ce172c153, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23702,7 +23706,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 1169079452}
   m_HandleRect: {fileID: 0}
@@ -25321,15 +25325,15 @@ PrefabInstance:
     - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 372fa0f86419f5242a3eda4fe7db14b8, type: 3}
+      objectReference: {fileID: 21300000, guid: f17b6ef8c82f6e746ab6c6a64756bfa9, type: 3}
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 5d8cae2f1d5e46645b34b461e22cf5af, type: 3}
+      objectReference: {fileID: 21300000, guid: 747ad279375bd0843ad9d42e807d550a, type: 3}
     - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 372fa0f86419f5242a3eda4fe7db14b8, type: 3}
+      objectReference: {fileID: 21300000, guid: f17b6ef8c82f6e746ab6c6a64756bfa9, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Restart
@@ -25628,7 +25632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 796c7278eef2fc448a3c0d484d8c009e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58383b5b3f05d8c45acacf4de6742573, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -26045,18 +26049,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
-    - target: {fileID: 5366160416627410336, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 6d3db31d853ffd8438955f998e9e981f, type: 3}
     - target: {fileID: 6121182709195073694, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 5d8cae2f1d5e46645b34b461e22cf5af, type: 3}
-    - target: {fileID: 6172661539572488327, guid: 35a0e7a9333db054e88224816c765146, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 6d3db31d853ffd8438955f998e9e981f, type: 3}
+      objectReference: {fileID: 21300000, guid: 747ad279375bd0843ad9d42e807d550a, type: 3}
     - target: {fileID: 7077060720705361237, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_Name
       value: Button_Restart

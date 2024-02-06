@@ -15,17 +15,19 @@ MonoBehaviour:
   m_TableCollectionName: UI_Icon
   m_TableCollectionNameGuidString: 8dd02795e5a85b848b8c459199bda80e
   m_Entries:
-  - m_Id: 1559660703744
-    m_Key: key_Title
+  - m_Id: 19946871029055488
+    m_Key: key_Heading
     m_Metadata:
       m_Items: []
-  - m_Id: 2288345526272
-    m_Key: key_Language
+  - m_Id: 19947239125368832
+    m_Key: 'key_Language
+
+'
     m_Metadata:
       m_Items: []
   m_Metadata:
     m_Items:
-    - rid: 1621131222131933184
+    - rid: 6010828983732011074
   m_KeyGenerator:
     rid: 1621131222028910592
   references:
@@ -35,17 +37,17 @@ MonoBehaviour:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1702381653920
-    - rid: 1621131222131933184
+    - rid: 6010828983732011074
       type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries:
-        - m_KeyId: 1559660703744
+        - m_KeyId: 19946871029055488
           m_TableCodes:
           - ru
           - en
-        - m_KeyId: 2288345526272
+        - m_KeyId: 19947239125368832
           m_TableCodes:
           - ru
           - en
-        m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
