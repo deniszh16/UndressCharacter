@@ -219,6 +219,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -328,6 +344,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -446,7 +478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -450
+      value: -540
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -475,6 +507,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -600
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -700
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -661,6 +709,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -771,6 +835,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -880,6 +960,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1127,6 +1223,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1207,7 +1319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -450
+      value: -540
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1236,6 +1348,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -600
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -700
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1347,6 +1475,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1456,6 +1600,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1567,6 +1727,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -320
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -340
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1676,6 +1852,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1867,6 +2059,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1976,6 +2188,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2089,7 +2317,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8046821953611944742, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -105
+      value: 105
       objectReference: {fileID: 0}
     - target: {fileID: 8046821953611944742, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -2250,6 +2478,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 640
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2359,6 +2603,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2612,6 +2872,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2721,6 +3001,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3079,6 +3379,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3188,6 +3508,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3382,6 +3718,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3528,6 +3884,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 320
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 340
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3787,6 +4159,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3896,6 +4284,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -880
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -960
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4007,6 +4411,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4116,6 +4536,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4404,6 +4840,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4513,6 +4969,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4699,6 +5175,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4846,6 +5342,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4955,6 +5471,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 880
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5066,6 +5598,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5175,6 +5723,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5361,6 +5925,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5470,6 +6054,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5581,6 +6181,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5690,6 +6306,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5801,6 +6433,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5910,6 +6550,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6053,6 +6713,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6162,6 +6826,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6273,6 +6953,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6383,6 +7079,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6492,6 +7196,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6639,6 +7359,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6749,6 +7477,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6829,7 +7577,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 450
+      value: 540
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -6858,6 +7606,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6968,6 +7732,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7138,6 +7918,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7288,6 +8076,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7491,6 +8299,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7653,6 +8477,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -120
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7900,6 +8744,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8009,6 +8869,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8269,6 +9145,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8450,6 +9342,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8555,6 +9467,10 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8711,6 +9627,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8821,6 +9753,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8930,6 +9870,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9084,6 +10044,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9232,6 +10208,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 880
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 960
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9342,6 +10334,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9451,6 +10459,18 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9625,6 +10645,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9734,6 +10766,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9845,6 +10893,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9954,6 +11018,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10065,6 +11145,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10174,6 +11270,14 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10285,6 +11389,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10394,6 +11514,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10505,6 +11641,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10614,6 +11770,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10725,6 +11897,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10834,6 +12018,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11096,6 +12296,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 320
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 340
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11206,6 +12422,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11315,6 +12547,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11542,6 +12790,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11864,6 +13128,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11973,6 +13241,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12133,6 +13417,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12242,6 +13542,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12353,6 +13673,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12462,6 +13802,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12640,6 +13996,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12749,6 +14121,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12860,6 +14248,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12969,6 +14373,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13080,6 +14500,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 640
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13189,6 +14625,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13300,6 +14752,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13409,6 +14877,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13652,6 +15140,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13761,6 +15265,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13943,6 +15463,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14122,7 +15646,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8046821953611944742, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 105
+      value: -105
       objectReference: {fileID: 0}
     - target: {fileID: 8046821953611944742, guid: 35a0e7a9333db054e88224816c765146, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -14283,6 +15807,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14393,6 +15933,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14502,6 +16050,14 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14814,6 +16370,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14923,6 +16495,18 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15078,6 +16662,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15188,6 +16788,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15297,6 +16913,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15483,6 +17115,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15592,6 +17240,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15802,6 +17466,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15977,6 +17657,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -880
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -960
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16124,6 +17820,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16233,6 +17941,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16344,6 +18068,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16453,6 +18193,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16623,6 +18379,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16732,6 +18504,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16946,6 +18734,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17258,6 +19062,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -360
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -375
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17368,6 +19192,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17477,6 +19317,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17734,6 +19590,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17844,6 +19712,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 375
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17953,6 +19841,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18115,6 +20019,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18224,6 +20144,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18879,6 +20815,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18959,7 +20911,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -150
+      value: -180
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -18988,6 +20940,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19069,7 +21037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -19098,6 +21066,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19209,6 +21193,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19319,6 +21323,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19399,7 +21419,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -150
+      value: -180
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -19428,6 +21448,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19539,6 +21575,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19648,6 +21692,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19806,6 +21866,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19916,6 +21996,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20025,6 +22117,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20542,6 +22654,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20651,6 +22779,18 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20812,6 +22952,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20982,7 +23138,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -21011,6 +23167,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21121,6 +23293,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21272,6 +23460,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21382,6 +23586,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21491,6 +23715,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21757,6 +24001,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21866,6 +24130,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 260
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21977,6 +24257,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22086,6 +24382,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -640
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22272,6 +24584,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22382,6 +24710,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22491,6 +24839,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22757,6 +25121,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22866,6 +25246,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -380
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -380
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23035,6 +25435,14 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23221,6 +25629,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23330,6 +25758,26 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 750
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23441,6 +25889,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23550,6 +26014,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23818,6 +26298,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23975,6 +26475,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24084,6 +26592,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24195,6 +26719,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24304,6 +26844,14 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24420,6 +26968,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -640
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24529,6 +27093,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -80
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24640,6 +27220,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -320
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -340
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 180
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24749,6 +27345,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -440
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24860,6 +27472,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24969,6 +27597,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25080,6 +27724,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25186,6 +27850,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25266,7 +27934,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 450
+      value: 540
       objectReference: {fileID: 0}
     - target: {fileID: 1752505631033754593, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -25295,6 +27963,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25565,6 +28249,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25750,6 +28454,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: 220
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25859,6 +28571,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -220
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -410
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -240
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -410
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26026,6 +28754,22 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.x
+      value: -660
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _wideScreenPosition.y
+      value: -190
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.x
+      value: -720
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _ultraWideScreenPosition.y
+      value: -190
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26348,6 +29092,10 @@ PrefabInstance:
     - target: {fileID: 3907286650414860781, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975180537337264349, guid: bd1624e4f9844f9458d8ea081aeaa105, type: 3}
+      propertyPath: _activity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

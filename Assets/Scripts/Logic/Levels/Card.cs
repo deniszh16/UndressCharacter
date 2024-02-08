@@ -45,16 +45,16 @@ namespace Logic.Levels
 
         public void CustomizeSize(CardSize cardSize)
         {
-            if (cardSize == CardSize.Average)
+            switch (cardSize)
             {
-                _rectTransform.sizeDelta = AverageSize;
-                _boxCollider.size = AverageBoxCollider;
-            }
-
-            if (cardSize == CardSize.Small)
-            {
-                _rectTransform.sizeDelta = SmallSize;
-                _boxCollider.size = SmallBoxCollider;
+                case CardSize.Average:
+                    _rectTransform.sizeDelta = AverageSize;
+                    _boxCollider.size = AverageBoxCollider;
+                    break;
+                case CardSize.Small:
+                    _rectTransform.sizeDelta = SmallSize;
+                    _boxCollider.size = SmallBoxCollider;
+                    break;
             }
         }
 
