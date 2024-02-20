@@ -3,7 +3,6 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using YG;
 
 namespace Logic.Levels
 {
@@ -27,7 +26,6 @@ namespace Logic.Levels
         private void OnEnable()
         {
             _doubleButton.onClick.AddListener(() => ShowVideoAds(id: 1));
-            YandexGame.RewardVideoEvent += DoubleYourReward;
         }
 
         public void ShowVictoryPanel() =>
@@ -41,8 +39,7 @@ namespace Logic.Levels
             _confettiEffect.Play();
         }
         
-        private void ShowVideoAds(int id) =>
-            YandexGame.RewVideoShow(id);
+        private void ShowVideoAds(int id) {}
 
         private void DoubleYourReward(int id)
         {
@@ -74,7 +71,6 @@ namespace Logic.Levels
         private void OnDisable()
         {
             _doubleButton.onClick.RemoveAllListeners();
-            YandexGame.RewardVideoEvent -= DoubleYourReward;
         }
 
         private void OnDestroy() =>
